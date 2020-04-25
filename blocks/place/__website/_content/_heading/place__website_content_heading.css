@@ -1,8 +1,10 @@
-.place__website__heading{
+.place__website_content_heading{
     font-size: 12px;
+    font-weight: normal;
     line-height: 0.75;
     letter-spacing: 0.2em;
     padding-bottom: 12px;
     margin: 0;
 }
+
 
