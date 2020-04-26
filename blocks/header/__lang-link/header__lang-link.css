@@ -6,9 +6,12 @@
     text-align: right;
     color: #FFFFFF;
     text-decoration: none;
+    opacity: 1;
 }
 
-
+.header__lang-link:hover{
+    opacity: 0.8;
+}
 
 @media (min-width : 320px) and (max-width : 767px) {
     .header__lang-link{

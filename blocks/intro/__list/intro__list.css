@@ -2,13 +2,11 @@
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
-    line-height: 1.125;
+    line-height: 18px;
     list-style: none;
     padding: 0;
     margin: 0;
-    height: 90px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    justify-content: space-between;
 }
